@@ -1,2 +1,2 @@
-<a href="https://adventofcode.com/" target="_blank">https://adventofcode.com/</a>
+Advent of Code Solutions
 ___
